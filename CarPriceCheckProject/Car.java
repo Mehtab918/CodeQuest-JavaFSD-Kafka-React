@@ -37,7 +37,9 @@ public class Car {
 //		System.out.println(result);
 		
 		
-	String result1 = (priceOfCar<=10000)? "affordable":(priceOfCar>=10000 && priceOfCar<=20000)?"Slightly expensive":(priceOfCar>=30000 && priceOfCar<=40000)?"Expensive":"very Expensive";
+	String result1 = (priceOfCar<=10000)?"affordable":(priceOfCar>=10000 && priceOfCar<=20000)?"Slightly expensive":
+					 (priceOfCar>=30000 && priceOfCar<=40000)?"Expensive":"very Expensive";
+	
 	System.out.println(result1);
 	}
 
