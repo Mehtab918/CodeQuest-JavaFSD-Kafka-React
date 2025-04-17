@@ -15,7 +15,13 @@ public class Car {
 		System.out.println("Price of the car :" + priceOfCar);
 		
 		if(priceOfCar <=10000)
+		{
 		System.out.println("price of the car is affordable");
+		}
+		else
+		{
+			System.out.println("price is not afforable");
+		}
 		
 		System.out.println("completed");
 	}
