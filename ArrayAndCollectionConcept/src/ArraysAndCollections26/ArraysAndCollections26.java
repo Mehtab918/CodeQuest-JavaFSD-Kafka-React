@@ -1,4 +1,4 @@
-package com.skillsoft.collections;
+package ArraysAndCollections26;
 
 import java.util.ArrayList;
 

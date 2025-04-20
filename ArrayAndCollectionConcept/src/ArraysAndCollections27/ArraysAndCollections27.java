@@ -1,9 +1,9 @@
-package ArraysAndCollections20;
+package ArraysAndCollections27;
 
 import java.util.ArrayList;
 import java.util.Collection;
 
-public class ArraysAndCollections20 {
+public class ArraysAndCollections27 {
 
 	@SuppressWarnings({ "rawtypes", "unchecked" })
 	public static void main(String[] args) {

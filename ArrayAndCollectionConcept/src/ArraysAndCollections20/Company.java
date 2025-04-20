@@ -1,4 +1,4 @@
-package com.skillsoft.collections;
+package ArraysAndCollections20;
 
 public class Company {
 	
